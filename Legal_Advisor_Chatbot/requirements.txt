@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+chromadb==0.5.3
+pypdf
+python-dotenv
+tiktoken
+langchain-community
+protobuf==4.25.3
